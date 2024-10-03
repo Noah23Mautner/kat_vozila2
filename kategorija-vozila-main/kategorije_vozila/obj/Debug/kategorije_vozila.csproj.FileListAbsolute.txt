@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.Form1.resources
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.Properties.Resources.resources
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.csproj.GenerateResource.cache
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\bin\Debug\kategorije_vozila.exe.config
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\bin\Debug\kategorije_vozila.exe
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\bin\Debug\kategorije_vozila.pdb
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.exe
+C:\Users\Ucenik\Downloads\kategorija-vozila-main (1)\kategorija-vozila-main\kategorije_vozila\obj\Debug\kategorije_vozila.pdb
